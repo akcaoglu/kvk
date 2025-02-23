@@ -1,18 +1,8 @@
-title: My Data Privacy Book
-author: John Doe
-theme: just-the-docs
-markdown: kramdown
+# My Data Privacy Book
 
-# Optional configuration for just-the-docs theme
-just-the-docs:
-  logo: "/assets/images/logo.png"
-  search_enabled: true
-  search:
-    heading_level: 2
+Welcome to my book on data privacy. This book covers various aspects of data privacy, including laws and regulations, best practices, and more.
 
-# Navigation structure
-nav:
-  - Home: index.md
-  - Chapter 1: chapter1.md
-  - Chapter 2: chapter2.md
-  - Chapter 3: chapter3.md
+## Chapters
+- [Chapter 1: Introduction to Data Privacy](chapter1.md)
+- [Chapter 2: Data Privacy Laws and Regulations](chapter2.md)
+- [Chapter 3: Best Practices for Data Privacy](chapter3.md)
