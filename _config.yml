@@ -3,8 +3,8 @@ author: John Doe
 theme: jekyll-theme-cayman
 markdown: kramdown
 
-# Optional configuration for minima theme
-minima:
+# Optional configuration for jekyll-theme-cayman theme
+jekyll-theme-cayman:
   # Enable or disable the sidebar
   sidebar:
     enabled: true
@@ -15,3 +15,4 @@ nav:
   - Chapter 1: /docs/chapter1.md
   - Chapter 2: /docs/chapter2.md
   - Chapter 3: /docs/chapter3.md
+  - License: LICENSE.md
