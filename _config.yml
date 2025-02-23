@@ -1,5 +1,5 @@
 title: My Data Privacy Book
-author: Ertuğrul Akçaoğlu
+author: John Doe
 theme: just-the-docs
 markdown: kramdown
 
@@ -9,3 +9,10 @@ just-the-docs:
   search_enabled: true
   search:
     heading_level: 2
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Chapter 1: chapter1.md
+  - Chapter 2: chapter2.md
+  - Chapter 3: chapter3.md
