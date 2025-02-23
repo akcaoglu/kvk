@@ -1,3 +1,136 @@
+## Türkçe (For English license text scroll down the page)
+
+Atıf-GayriTicari-Türetilemez 4.0 Uluslararası
+
+=======================================================================
+
+Creative Commons Corporation ("Creative Commons"), bir hukuk firması değildir ve avukatlık hizmetleri veya hukukî danışmanlık hizmeti vermemektedir. Creative Commons kamu lisanslarının dağıtımı, avukat-müvekkil ilişkisi veya başka türlü bir ilişki oluşturmamaktadır. Creative Commons, lisanslarını ve buna ait bilgileri "olduğu gibi" temin etmektedir. Creative Commons, söz konusu lisansları, şartları ve koşulları kapsamında lisanslanan hiçbir materyal veya diğer bilgiler ile ilgili hiçbir taahhütte bulunmamaktadır. Creative Commons, mümkün olan en geniş kapsamda, bunların kullanımından kaynaklanan zararlara ilişkin hiçbir sorumluluk kabul etmez.
+
+Creative Commons Kamu Lisanslarını Kullanma
+
+Creative Commons kamu lisansları, telif hakları ve aşağıda kamu lisansında belirtilmiş olan bazı diğer haklar ile korunan özgün içerik ve diğer materyalleri paylaşmak amacıyla, eser sahipleri ve diğer hak sahiplerinin kullanabileceği standart şart ve koşulları ortaya koymaktadır. Aşağıda belirtilmiş olan hususlar yalnızca bilgilendirme amacını taşımakta olup, sınırlayıcı değildir ve lisanslarımızın bir parçasını teşkil etmemektedir.
+
+Lisanslayıcılara Yönelik Hususlar
+
+Kamu lisanslarımız, telif hakkı ve bazı diğer haklar ile yasaklanmış kullanım şekli hariç, materyalin diğer biçimlerde kullanımına umumi izin verme yetkisine sahip olanlar tarafından kullanılması içindir. Lisanslarımız gayri kabili rücudur. Lisans verenler, lisansı kullanmadan önce ilgili şart ve koşulları okumalı ve anlamalıdırlar. Lisans verenler ayrıca, kamunun ilgili materyali beklendiği şekilde tekrar kullanabilmesi için lisanslarımızı kullanmadan / uygulamadan önce gerekli tüm hakları güvenceye almalıdır. Lisans verenler, lisansa tâbi olmayan her türlü materyali açık bir şekilde işaretlemelidir. Buna, diğer CC-lisanslı materyaller veya bir telif hakkı istisnası veya sınırlaması kapsamında kullanılan materyaller de dâhildir. Lisans verenler ile ilgili daha fazla hususlar: wiki.creativecommons.org/Considerations_for_licensors
+
+Kamuya Yönelik Hususlar
+
+Lisans veren, kamu lisanslarımızdan birini kullanmak suretiyle, belirlenmiş şartlar ve koşullar çerçevesinde lisanslı olan materyalin kullanımına ilişkin umumî izin vermektedir. Herhangi bir nedenle lisans verenin izni gerekmiyorsa - örneğin, telif hakkı ile ilgili herhangi bir istisna veya sınırlamadan dolayı- bu durumda, söz konusu kullanım lisansa tâbi değildir. Lisanlarımız yalnızca, lisans verenin lisans verme yetkisinin olduğu telif hakkı ve diğer bazı haklar çerçevesinde izin vermektedir. Lisanslı materyalin kullanımı, başkalarının da materyal üzerinde sahip olduğu telif hakkı veya diğer haklardan dolayı kısıtlanmış olabilir. Lisans veren, her türlü değişikliğin işaretlenmesi veya açıklanmasını istemek de dâhil özel taleplerde bulunabilir. Lisanslarımız için gerekli olmamakla beraber, makul olduğu ölçüde bu taleplere uymanız önerilir. Kamu ile ilgili daha ayrıntılı hususlar: wiki.creativecommons.org/Considerations_for_licensees
+
+=======================================================================
+
+Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
+Uluslararası Kamu Lisansı
+
+Lisanslı Hakları (tanımı aşağıda verilmiştir) kullanarak, işbu Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 Uluslararası Kamu Lisansının ("Kamu Lisansı") şart ve koşullarına tâbi olmayı kabul ve beyan etmektesiniz. İşbu Kamu Lisansının bir sözleşme olarak yorumlanabildiği ölçüde, işbu şart ve koşulları kabul etmeniz karşılığında size Lisansa Konu Haklar verilmekte ve Lisans Veren size söz konusu hakları, işbu şart ve koşullar çerçevesinde Lisans Verenin, Lisanslı Materyali kullanıma sunmasından elde ettiği faydalar karşılığında sunmaktadır.
+
+Bölüm 1 - Tanımlar
+
+  a. Uyarlanmış Materyal, Lisanslı Materyalden elde edilen veya Lisanslı Materyale Dayalı Telif Hakkı ve Benzeri Haklara tâbi bulunan ve Lisanslı Materyalin, Lisans Verene ait Telif Hakkı ve Benzeri Haklar çerçevesinde izin gerektirecek bir şekilde tercüme edildiği, değiştirildiği, düzenlendiği, dönüştürüldüğü veya tadil edildiği materyali ifade eder. İşbu Kamu Lisansı kapsamında, Lisanslı Materyalin bir müzik eseri, performans veya ses kaydı olması hâlinde, Uyarlanmış Materyal her zaman hareketli bir görüntü ile senkronize edildiği durumlarda üretilir.
+
+  b. Telif Hakkı ve Benzeri Haklar, herhangi bir sınırlama olmaksızın performans, yayın, ses kaydı ve Nevi Şahsına Münhasır Veritabanı Hakları da dâhil olmak üzere, hakların nasıl etiketlendiğine veya kategorize edildiğine bakılmaksızın telif hakkını ve/veya telif hakkı ile yakından ilişkili benzeri hakları ifade eder. İşbu Kamu Lisansı kapsamında, Bölüm 2(b)(1)-(2) de belirtilen haklar Telif Hakkı veya Benzeri Haklar değildir.
+
+  c. Etkin Teknolojik Önlemler, uygun bir merciin yetkisi olmadan aşılamayacak önlemleri ifade eder; bu önlemler, 20 Aralık 1996 tarihinde kabul edilen Dünya Fikrî Mülkiyet Örgütü (WIPO) Telif Hakkı Sözleşmesi'nin 11. Maddesi kapsamında ve/veya benzer uluslararası anlaşmalar kapsamında yer alan yükümlülükleri yerine getiren yasalarca belirlenmiştir.
+
+  d. İstisnalar ve Sınırlamalar, Lisanslı Materyalin Tarafınızca kullanımı için geçerli olan Telif Hakkı ve Benzeri Haklar ile ilgili adil kullanım (“fair use”), adil muamele (“fair dealing”) ve/veya diğer sınırlama veya istisnaları ifade eder.
+
+  e. Lisanslı Materyal, Lisans Verenin işbu Kamu Lisansını uyguladığı sanat veya edebî eseri, veritabanı veya diğer materyali ifade etmektedir.
+
+  f. Lisansa Konu Haklar, Lisanslı Materyalin Sizin tarafınızdan kullanımı için geçerli olan ve Lisans Verenin lisans verme yetkisinin olduğu tüm Telif Hakkı ve Benzeri Haklar ile sınırlı olan, işbu Kamu Lisansı şart ve koşulları çerçevesinde size bahşedilen hakları ifade eder.
+
+  g. Lisans Veren, işbu Kamu Lisansı çerçevesinde bu hakları veren kişi(ler) veya kuruluş(lar) anlamına gelir.
+
+
+  h. GayriTicari, esas olarak ticari avantaj veya parasal tazminat amacıyla veya yönlendirilmiş olmayan anlamına gelir. Bu Kamu Lisansı amaçları doğrultusunda, dijital dosya paylaşımı veya benzeri yollarla Lisanslı Materyalin başka materyallerle değiş tokuş edilmesi, değiş tokuşla bağlantılı olarak parasal tazminat ödenmediği sürece GayriTicari olarak kabul edilir.
+  i. Paylaşmak, Lisanslı Haklar kapsamında izin gerektiren herhangi bir yöntem veya süreçle materyali kamuya sağlamak, örneğin yeniden üretim, kamuya açık gösterim, kamuya açık performans, dağıtım, yayma, iletişim veya ithalat ve materyali kamuya sunmak dahil olmak üzere, kamuya materyale bireysel olarak seçtikleri bir yer ve zamanda erişme olanağı sağlamak anlamına gelir.
+
+  j. Nevi Şahsına Münhasır Veritabanı Hakları, tadil edildiği ve/veya yenisiyle değiştirildiği şekliyle, veritabanlarının yasal muhafazası hakkındaki 96/9/EC sayılı ve 11 Mart 1996 tarihli Avrupa Parlamentosu ve Konseyi Direktifinden doğan telif hakkı dışındaki diğer hakları ve dünyanın herhangi bir yerinde geçerli buna eşdeğer hakları ifade etmektedir.
+
+  k. Siz, işbu Kamu Lisansı çerçevesinde Lisanslı Hakları kullanan kişi veya kuruluşu ifade eder. Sizin sözcüğü de benzer bir anlamı ifade etmektedir.
+
+Bölüm 2 - Kapsam
+
+  a. Lisans verme.
+
+       1. Bu Kamu Lisansı'nın şart ve koşullarına tâbi olarak, Lisans Veren size dünya çapında, telifsiz, alt lisans verilemez, münhasır olmayan, geri alınamaz bir lisans vererek Lisanslı Hakları Lisanslı Materyal'de şu şekilde kullanmanıza izin verir:
+
+            a. Lisanslı Materyal'i, tamamını veya bir kısmını yalnızca GayriTicari amaçlarla yeniden üretmek ve Paylaşmak; ve
+
+            b. Yalnızca GayriTicari amaçlarla Uyarlanmış Materyal üretmek ve yeniden üretmek, ancak Paylaşmamak.
+
+       2. İstisnalar ve Sınırlamalar. Herhangi bir şüpheye mahal vermemek için, İstisnalar ve Sınırlamalar kullanımınıza uygulandığında, bu Kamu Lisansı geçerli değildir ve şart ve koşullarına uymanız gerekmez.
+
+       3. Süre. Bu Kamu Lisansı'nın süresi Bölüm 6(a)'da belirtilmiştir.
+
+       4. Medya ve formatlar; teknik değişikliklere izin verilir. Lisans Veren, Lisanslı Hakları şimdi bilinen veya daha sonra oluşturulacak tüm medya ve formatlarda kullanmanıza ve bunu yapmak için gerekli teknik değişiklikleri yapmanıza izin verir. Lisans Veren, Etkin Teknolojik Önlemler'i aşmak için gerekli teknik değişiklikler dahil, Lisanslı Hakları kullanmanıza izin vermek için gerekli teknik değişiklikleri yapmanızı yasaklamak için herhangi bir hakkından feragat eder ve/veya bu hakkı iddia etmemeyi kabul eder. Bu Kamu Lisansı amacıyla, bu Bölüm 2(a)(4) tarafından yetkilendirilen değişiklikleri yapmak, hiçbir zaman Uyarlanmış Materyal üretmez.
+
+       5. Aşağı yönlü alıcılar.
+
+            a. Lisans Veren'den Teklif -- Lisanslı Materyal. Lisanslı Materyal'in her alıcısı, Lisans Veren'den bu Kamu Lisansı'nın şart ve koşulları altında Lisanslı Hakları kullanma teklifi alır.
+
+            b. Aşağı yönlü kısıtlamalar yok. Lisanslı Materyal'in herhangi bir alıcısının Lisanslı Hakları kullanmasını kısıtlıyorsa, Lisanslı Materyal üzerinde hiçbir ek veya farklı şart veya koşullar teklif edemez veya dayatamaz veya Lisanslı Materyal'e Etkin Teknolojik Önlemler uygulayamazsınız.
+
+       6. Onay yok. Bu Kamu Lisansı'nda hiçbir şey, sizin veya Lisanslı Materyal'in kullanımınızın Lisans Veren veya Bölüm 3(a)(1)(A)(i) de öngörüldüğü şekilde atıfta bulunacak diğer kişilerin bağlantılı, sponsorlu, onaylanmış veya resmi olarak statüde olduğunu iddia etme izni veya ima etme izni olarak yorumlanamaz veya yorumlanamaz.
+
+  b. Diğer haklar.
+
+       1. Eserde değişiklik yapılmasını menetme hakkı gibi manevî haklar, aleniyet, gizlilik ve/veya diğer benzer şahsî haklar için, işbu Kamu Lisansı kapsamında lisans verilmemektedir; ancak, mümkün olduğunca, Lisans Veren başka türlü olmamak kaydıyla, yalnızca Sizin Lisansa Konu Hakları kullanabilmeniz için gerekli olduğu ölçüde, kendisinin sahibi olduğu bu tür haklardan feragat eder ve/veya bu tür hak iddialarında bulunmamayı kabul eder.
+
+       2. İşbu Kamu Lisansı kapsamında patent ve markalar için lisans verilmemektedir.
+
+       3. Mümkün olduğu ölçüde Lisans Veren, gerek doğrudan gerekse herhangi bir gönüllü veya feragati kabil yasal veya zorunlu lisanslama tasarısı çerçevesinde bir meslek birliği aracılığı ile, Lisansa Konu Hakların kullanımı ile ilgili Sizden herhangi bir telif hakkı ücreti tahsil etme hakkından feragat eder. Tüm diğer hâllerde Lisans Veren bu tür telif hakkı ücretlerini tahsil etme hakkını açıkça saklı tutar.
+
+Bölüm 3 - Lisans Koşulları
+
+Lisanslı Hakların tarafınızca kullanımı, aşağıdaki koşullara açıkça tâbidir.
+
+  a. Atıf.
+
+       1. Lisanslı Materyali Paylaştığınızda:
+
+            a. Lisans Veren tarafından Lisanslı Materyal ile sağlanan aşağıdaki bilgileri saklamalısınız:
+
+                 i. Lisans Veren tarafından makul bir şekilde talep edilen herhangi bir şekilde (takma adla belirtilmişse dahil) Lisanslı Materyalin yaratıcılarının ve belirtilmiş diğer alıntı yapılacak kişilerin kimliği;
+
+                ii. Bir telif hakkı bildirimi;
+
+               iii. Bu Kamu Lisansı'na atıfta bulunan bir bildirim;
+
+                iv. Garanti feragatnamesine atıfta bulunan bir bildirim;
+
+                 v. Makul ölçüde uygulanabilirlik durumunda, Lisanslı Materyal için bir URI veya köprü;
+
+            b. Lisanslı Materyal'i değiştirdiyseniz belirtmelisiniz ve önceki değişikliklerin bir göstergesini saklamalısınız; ve
+
+            c. Lisanslı Materyal'in bu Kamu Lisansı kapsamında lisanslandığını belirtmelisiniz ve Kamu Lisansı metnini veya URI veya köprüsünü eklemelisiniz.
+
+          Şüpheye mahal vermemek için, bu Kamu Lisansı kapsamında Uyarlanmış Materyal Paylaşmak için izniniz yoktur.
+
+       2. Bölüm 3(a)(1) 'deki koşulları, Lisanslı Materyali Paylaştığınız ortam, araç ve bağlama dayanarak makul herhangi bir şekilde yerine getirebilirsiniz. Örneğin, koşulları, gerekli bilgileri içeren bir kaynağa bir URI veya köprü sağlayarak yerine getirmek makul olabilir.
+
+       3. Lisans Veren tarafından talep edilirse, Bölüm 3(a)(1)(A)'da istenen bilgilerin makul ölçüde uygulanabilirliği durumunda kaldırmanız gerekir.
+
+Bölüm 4 - Nevi Şahsına Münhasır Veritabanı Hakları
+
+Lisanslı Haklar, Lisanslı Materyal'in kullanımınıza uygulanan Nevi Şahsına Münhasır Veritabanı Hakları'na sahipse:
+
+  a. Şüpheye mahal vermemek için, Bölüm 2(a)(1) size, veri tabanının içeriğinin tamamını veya önemli bir kısmını yalnızca GayriTicari amaçlarla çıkartma, yeniden kullanma, yeniden üretme ve Paylaşma hakkını verir ve Uyarlanmış Materyal Paylaşmadığınız sürece;
+
+  b. Veri tabanının içeriğinin tamamını veya önemli bir kısmını Nevi Şahsına Münhasır Veritabanı Haklarına sahip olduğunuz bir veri tabanına dahil ederseniz, Nevi Şahsına Münhasır Veritabanı Haklarına sahip olduğunuz veri tabanı (ancak bireysel içerikleri değil) Uyarlanmış Materyal'dir; ve
+
+  c. Veri tabanının içeriğinin tamamını veya önemli bir kısmını Paylaştığınızda Bölüm 3(a) 'daki koşullara uymalısınız.
+
+Şüpheye mahal vermemek için, bu Bölüm 4, Lisanslı Haklar diğer Telif Hakkı ve Benzeri Hakları kapsıyorsa, bu Kamu Lisansı kapsamındaki yükümlülüklerinizi tamamlar ve yerini almaz.
+
+Bölüm 5 - Garanti Reddi ve Sorumluluğun Sınırlandırılması
+
+  a. LİSANS VEREN TARAFINDAN AYRICA BELİRTİLMEDİKÇE, MÜMKÜN OLDUĞUNCA, LİSANS VEREN, LİSANSLI MATERYALİ OLDUĞU GİBİ VE MEVCUT OLDUĞU ŞEKİLDE SUNAR VE LİSANSLI MATERYAL İLE İLGİLİ HERHANGİ BİR TÜRDE TEMSİL VEYA GARANTİ VERMEMEKTEDİR, BU HAKLARIN MEVCUT OLMASI VEYA KEŞFEDİLMESİ DURUMUNDA, ÜNVAN, SATILABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK, İHLAL ETMEME, GİZLİ VEYA DİĞER KUSURLARIN BULUNMAMASI, DOĞRULUK VEYA HATALARIN BULUNUP BULUNMAMASI DAHİL OLMAK ÜZERE, AÇIK, ZIMNİ, YASAL VEYA DİĞER. GARANTİ FERAGATLERİNİN TAMAMEN VEYA KISMEN İZİN VERİLMEDİĞİ DURUMLARDA, BU FERAGAT SİZE UYGULANMAYABİLİR.
+
+  b. MÜMKÜN OLDUĞUNCA, LİSANS VEREN, HUKUKİ BİR TEORİYE (İHMAL DAHİL) DAYANARAK VEYA BAŞKA BİR ŞEKİLDE, LİSANS VEREN, BU KAMU LİSANSI VEYA LİSANSLI MATERYALİN KULLANIMINDAN KAYNAKLANAN HERHANGİ BİR DOĞRUDAN, ÖZEL, DOLAYLI, TESADÜFİ, SONUÇ OLARAK ORTAYA ÇIKAN, CEZAİ, ÖR
+
+## English (Türkçe lisans metni için sayfayı yukarıya doğru kaydırın.)
+
 Attribution-NonCommercial-NoDerivatives 4.0 International
 
 =======================================================================
