@@ -1,0 +1,17 @@
+title: My Data Privacy Book
+author: John Doe
+theme: minima
+markdown: kramdown
+
+# Optional configuration for minima theme
+minima:
+  # Enable or disable the sidebar
+  sidebar:
+    enabled: true
+
+# Navigation structure
+nav:
+  - Home: index.md
+  - Chapter 1: chapter1.md
+  - Chapter 2: chapter2.md
+  - Chapter 3: chapter3.md
